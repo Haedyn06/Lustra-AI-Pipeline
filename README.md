@@ -1,4 +1,4 @@
-# AI LUSTRA COMMAND PIPELINE
+# AI LUSTRA COMMAND PIPELINE (25% Refactored)
 
 **Note:** Restructuring and Optimization is still in progress, so expect some bugs and unoptimized code. Had to redo some code due to many private information being exposed, so I am still in the process of re-implementing some features and optimizing the code. This was created on Apr 12, 2025. If you want to contribute or have any suggestions, feel free to open an issue or a pull request!
 
