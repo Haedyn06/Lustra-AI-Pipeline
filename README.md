@@ -29,6 +29,7 @@
 ### Setup (Unfinished)
 
 #### Requirements:
+- AI Model From Ollama
 - C++20 Compiler
 - MySQL Database
 - Whisper.cpp (For Speech to Text)
