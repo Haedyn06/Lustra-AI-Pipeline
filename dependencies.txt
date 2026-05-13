@@ -1,0 +1,39 @@
+C++ Dependencies
+
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <cstdlib>
+#include <cctype> 
+#include <map>
+#include <chrono>
+#include <fmt/core.h>
+#include <signal.h>
+#include <unistd.h>
+#include <mysql/mysql.h>
+#include <ctime>
+
+
+
+Python Dependencies
+
+subprocess
+sys
+re
+os
+textwrap
+asyncio
+json
+threading
+time
+
+mariadb
+pygame
+paho-mqtt
+gTTS
+elevenlabs
+langchain_ollama
+langchain_core
+requests
